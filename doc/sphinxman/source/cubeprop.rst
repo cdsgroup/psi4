@@ -48,7 +48,7 @@ Introduction
 |PSIfour| has the ability to export cube files that store information about
 basis functions, molecular orbitals, the electron density, and
 the electrostatic potential (ESP).  Cube files store the value of a scalar
-quantity on a regular Cartesian grid, and can be visualized with several
+quantity on a regular Cartesian grid and can be visualized with several
 visualization programs, some of which are free, like VMD
 (http://www.ks.uiuc.edu/Research/vmd/).
 
